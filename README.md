@@ -2,7 +2,7 @@
 
 Upload images to Eagle and manage them alongside your vault.
 
-![Pasting an image into a note shows an upload placeholder and progress, then the image renders; the search picker then lists library images and inserts one. Sample images and a stand-in Eagle API on the local machine, not a real library.](https://raw.githubusercontent.com/Xia-Ataraxia/obsidian-eagle/main/docs/assets/demo.webp)
+![Pasting an image into a note shows an upload placeholder and progress, then the image renders; the search picker then lists library images and inserts one. Sample images and a stand-in Eagle API on the local machine, not a real library.](https://raw.githubusercontent.com/GoBeromsu/obsidian-eagle/main/docs/assets/demo.webp)
 
 ## Features
 
@@ -26,7 +26,7 @@ Desktop only.
 
 **Community plugins**: open Settings, Community plugins, Browse, search for "Eagle Integration", then Install and Enable.
 
-**Manual**: download `main.js`, `manifest.json` and `styles.css` from the [latest release](https://github.com/Xia-Ataraxia/obsidian-eagle/releases/latest) into `<vault>/<configDir>/plugins/eagle/`, then enable the plugin. `<configDir>` is your vault's configuration folder (`.obsidian` by default).
+**Manual**: download `main.js`, `manifest.json` and `styles.css` from the [latest release](https://github.com/GoBeromsu/obsidian-eagle/releases/latest) into `<vault>/<configDir>/plugins/eagle/`, then enable the plugin. `<configDir>` is your vault's configuration folder (`.obsidian` by default).
 
 ## Disclosures
 
