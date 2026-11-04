@@ -40,12 +40,12 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Xia-Ataraxia/obsidian-eagle.git"
+		"url": "git+https://github.com/GoBeromsu/obsidian-eagle.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Xia-Ataraxia/obsidian-eagle/issues"
+		"url": "https://github.com/GoBeromsu/obsidian-eagle/issues"
 	},
-	"homepage": "https://github.com/Xia-Ataraxia/obsidian-eagle#readme",
+	"homepage": "https://github.com/GoBeromsu/obsidian-eagle#readme",
 	"overrides": {
 		"moment": "2.31.0"
 	}
